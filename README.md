@@ -24,7 +24,6 @@ I'm a **Computer Science** student specializing in **Artificial Intelligence** w
 ## 📚 Publications  
 
 📄 **[Under Review] "Optimizing Radial Interfaces for Eye-Movement Authentication on Smartphones"** (ACM ETRA 2025)  
-- Designed and tested **radial gaze-based authentication interfaces** for smartphones, balancing **security and usability**.  
 
 ---
 
