@@ -23,7 +23,9 @@ I'm a **Computer Science** student specializing in **Artificial Intelligence** w
 
 ## 📚 Publications  
 
-📄 **[Under Review] "Optimizing Radial Interfaces for Eye-Movement Authentication on Smartphones"** (ACM ETRA 2025)  
+📄 Trey Tuscai and Naser Al Madi. 2025. What is the Optimal Radial Interface for Eye-Movement Authentication on a
+Smartphone?. In *2025 Symposium on Eye Tracking Research and Applications (ETRA ’25), May 26–29, 2025, Tokyo,
+Japan*. ACM, New York, NY, USA, 3 pages. [https://doi.org/10.1145/3715669.3726820]
 
 ---
 
