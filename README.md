@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-I'm a **Computer Science** student specializing in **Artificial Intelligence** with a strong passion for **UI/UX**, **machine learning**, and **iOS development**. My work spans eye-tracking research, AI model development, and mobile app engineering, with a strong foundation in software engineering and data structures.
+I'm a **Computer Science** student specializing in **Artificial Intelligence** with a strong passion for **UI/UX**, **machine learning**, and **iOS development**. My work spans HCI research, AI model development, and mobile app engineering, with a strong foundation in software engineering and data structures.
 
 ---
 
