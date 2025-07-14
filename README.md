@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m a **Master’s student in Human-Computer Interaction** at Carnegie Mellon University and an **Honors graduate in Computer Science: Artificial Intelligence** from Colby College.
+I’m a **Master’s student in Human-Computer Interaction** at Carnegie Mellon University and an **Honors graduate in Computer Science-Artificial Intelligence** from Colby College.
 My work bridges **HCI research**, **machine learning engineering**, and **mobile development**. I thrive at the intersection of **research** and **production code**, and I’m passionate about building **AI-powered, user-centered products**.
 
 Currently interning as a **Mobile App Framework Developer** at **CBA**, building scalable, user-focused mobile infrastructure.
